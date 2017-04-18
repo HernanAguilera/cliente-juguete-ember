@@ -10,6 +10,8 @@ Router.map(function() {
   this.route('about');
   this.route('contact');
   this.route('rentals');
+  this.route('noticia');
+  this.route('post');
 });
 
 export default Router;
